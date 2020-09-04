@@ -4,7 +4,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-made it
+Take it out...needed more lesson on git
 
 var indexRouter = require('./routes/index');
 var trainsRouter = require('./routes/trains');
